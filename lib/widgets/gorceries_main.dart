@@ -42,7 +42,7 @@ class _GrocriesMainState extends ConsumerState<GrocriesMain> {
     final items_notifier = ref.watch(grocery_provider.notifier);
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Grocery Items'),
+        title: const Text('Grocify'),
         actions: [
           IconButton(
             onPressed: () {
