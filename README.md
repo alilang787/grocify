@@ -1,6 +1,6 @@
 # grocify
 
-A new Flutter project.
+Flutter project with Firebase.
 
 ## Getting Started
 
