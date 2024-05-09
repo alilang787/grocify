@@ -1,6 +1,6 @@
 # grocify
 
-Flutter project with Firebase realtime database.
+Flutter project with Firebase.
 
 ## Getting Started
 
